@@ -125,7 +125,6 @@ Las contribuciones son bienvenidas. Para contribuir:
 ### v1.0.0
 - Implementación inicial del toolkit
 - Menú interactivo con 8 herramientas principales
-- Instalación automática de dependencias
 - Validación de entradas y manejo de errores
 
 ## 📄 Licencia
@@ -137,11 +136,6 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 **Martín Cantero**
 - GitHub: [@martiincantero](https://github.com/martiincantero)
 
-## 🙏 Agradecimientos
-
-- Comunidad de eLearnSecurity
-- Desarrolladores de las herramientas de pentesting incluidas
-- Comunidad de seguridad informática
 
 ---
 
