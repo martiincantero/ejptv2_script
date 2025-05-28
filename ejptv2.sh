@@ -488,7 +488,7 @@ main_menu() {
             8) run_wpscan ;;
             9) 
                 echo -e "${GREEN}¡Gracias por usar el toolkit eJPTv2!${NC}"
-                echo -e "${CYAN}Creado por: ByRex03${NC}"
+                echo -e "${CYAN}Creado por: Martín Cantero${NC}"
                 exit 0
                 ;;
             *)
